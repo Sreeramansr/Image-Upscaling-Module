@@ -1,8 +1,6 @@
-"""
 
 ## [Image Upscaling Module]
 
-""" 
 This module provides functionality for upscaling low quality, low resolution images using a thread pool for concurrent processing. It utilizes an object-oriented approach and is implemented in Python.
 The code is based on the following research paper 
 ## [Swin2SR: SwinV2 Transformer for Compressed Image Super-Resolution and Restoration](https://arxiv.org/abs/2209.11345).
