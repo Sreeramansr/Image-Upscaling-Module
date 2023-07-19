@@ -1,0 +1,13 @@
+Image Upscaling Module
+This module provides functionality for upscaling images using a thread pool for concurrent processing. It utilizes an object-oriented approach and is implemented in Python.
+
+Features
+Image upscaling using a deep learning model
+Concurrent processing of multiple images using a thread pool
+Thread-safe execution
+Requirements
+Python 3.x
+torch (PyTorch library)
+opencv-python (OpenCV library)
+numpy
+Installation
